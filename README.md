@@ -1,1 +1,1 @@
-jef.gg
+https://jef.gg
