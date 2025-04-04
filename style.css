@@ -1,16 +1,16 @@
 body {
-    background-color: #4B0082; /* Deep purple background */
-    font-family: Arial, sans-serif; /* Font family */
-    color: white; /* Text color */
+    background-color: #4B0082;
+    font-family: Arial, sans-serif;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Full height */
+    height: 100vh;
     margin: 0;
     text-align: center;
 }
 
 h1 {
-    font-weight: bold; /* Bold font */
-    font-size: 6rem; /* Font size */
+    font-weight: bold;
+    font-size: 6rem;
 }
